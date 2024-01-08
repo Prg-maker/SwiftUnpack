@@ -1,0 +1,6 @@
+./src/temp
+node_modules
+tsconfig.json
+temp
+./temp/test.zip
+./temp/teste.tar.xz
